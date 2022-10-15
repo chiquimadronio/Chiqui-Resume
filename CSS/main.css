@@ -1,0 +1,50 @@
+h1{
+  background-image: url(https://i.pinimg.com/564x/06/c2/8e/06c28e0e1591582638c621d639c23fae.jpg);
+  background-repeat: repeat-x;
+  font-family: "Lucida Handwriting";
+  color: Sienna;
+  width: 1500px;
+  height: 80px;
+  padding: 50px;
+  margin: 15px;
+  font-size: 70px
+}
+
+body{
+  background-color: wheat;
+  background-image: url(https://i.pinimg.com/736x/60/bc/09/60bc090630a52bf823350c0d8a16cb77.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+h2{
+  background-color: Tan;
+  color: Cornsilk;
+  font-size: 40px;
+}
+
+p{
+  text-align: center;
+  font-size: 35px;
+  color: black;
+}
+
+table, th, td{
+  font-size: 30px;
+  border: 1px solid;
+  text-align: center;
+}
+
+h3{
+  color: Sienna;
+  font-size: 30px;
+}
+
+h4{
+  font-size: 30px;
+}
+
+h5{
+  text-align: center;
+  font-size: 25px;
+}
